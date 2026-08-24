@@ -18,7 +18,7 @@
 ## 🌐 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,py,vscode,linux,discord,bash&perline=3" />
+  <img src="https://skillicons.dev/icons?i=kali,py,vscode,linux,windows,bash&perline=3" />
 </p>
 
 ---

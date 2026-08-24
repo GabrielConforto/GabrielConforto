@@ -6,11 +6,11 @@
 ## 👾 About Me
 
 - 🎓 Cybersecurity graduate  
-- 🌱 Learning more about eletronics and bug bountying 
-- ⚡ Fun fact: I am very interested in DIY projects
+- 🌱 Learning more about eletronic systems and bug bountying 
 - 🧠 Working with Burp, Linux distros, OSINT
+- ⚡ I am very interested in DIY projects
 - 📖 Very eager to read and learn new things
-- 🚀 Always trying to make the world a better place anyway I can
+- 🌎 Always trying to make the world a better place anyway I can
 
 
 ---

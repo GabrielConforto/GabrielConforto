@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## 👾 About Me
 
 - 🎓 Cybersecurity graduate  
 - 🌱 Learning more about eletronics and bug bountying 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🌐 Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,py,vscode,linux,discord,bash&perline=3" />
@@ -23,17 +23,17 @@
 
 ---
 
-## 🧠 Current Interests
+## 🔎 Current Interests
 
+- Cybersecurity
 - OSINT
 - Bug bonty
 - Eletronic systems
-- Cybersecurity
-- Automation
+
 
 ---
 
-## 🌐 Socials
+## 🗣️ Socials
 
 <p align="center">
   
@@ -45,7 +45,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   
-	
   
 </p>
 

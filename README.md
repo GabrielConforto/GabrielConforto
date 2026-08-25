@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Cybersecurity graduate | IoT and OSINT enthusiast</h3>
-
----
-
-## 👾 About Me
-
-- 🎓 Cybersecurity graduate  
-- 🌱 Learning more about eletronic systems and bug bountying 
-- 🧠 Working with Burp, Linux distros, OSINT
-- ⚡ I am very interested in DIY projects
-- 📖 Very eager to read and learn new things
-- 🌎 Always trying to make the world a better place any way I can
-
+<h3 align="center">Cybersecurity graduate, IoT and OSINT enthusiast</h3>
 
 ---
 
@@ -23,12 +11,28 @@
 
 ---
 
-## 🔎 Current Interests
+## 👾 About Me
+
+- 🎓 Cybersecurity graduate  
+- 🧠 Working with Burp, Linux distros, OSINT
+- 🚀 Studying for Security+
+- 🌱 Learning more about eletronic systems and bug bountying 
+- ⚡ I am very interested in DIY projects
+- 📖 Very eager to read and learn new things
+- 🌎 Always trying to make the world a better place any way I can
+
+
+---
+
+
+## 🔎 Interests
 
 - Cybersecurity
 - OSINT
 - Bug bonty
 - Eletronic systems
+- Pentesting
+- IoT
 
 
 ---

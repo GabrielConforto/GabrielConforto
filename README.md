@@ -33,6 +33,7 @@
 - Eletronic systems
 - Pentesting
 - IoT
+- Blue Teaming
 
 
 ---

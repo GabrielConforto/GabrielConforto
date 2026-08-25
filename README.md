@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">Cybersecurity graduate, IoT and OSINT enthusiast</h3>
+<br>
 
----
+
+<br>
+
 
 ## 🌐 Skills
 
@@ -9,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=kali,py,vscode,linux,windows,bash&perline=3" />
 </p>
 
----
+<br>
 
 ## 👾 About Me
 
@@ -22,7 +25,7 @@
 - 🌎 Always trying to make the world a better place any way I can
 
 
----
+<br>
 
 
 ## 🔎 Interests
@@ -36,7 +39,7 @@
 - Blue Teaming
 
 
----
+<br>
 
 ## 🗣️ Socials
 

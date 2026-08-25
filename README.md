@@ -19,7 +19,7 @@
 - 🎓 Cybersecurity graduate  
 - 🧠 Working with Burp, Linux distros, OSINT
 - 🚀 Studying for Security+
-- 🌱 Learning more about eletronic systems and bug bountying 
+- 🌱 Learning more about eletronic systems, bug bountying and C
 - ⚡ I am very interested in DIY projects
 - 📖 Very eager to read and learn new things
 - 🌎 Always trying to make the world a better place any way I can
